@@ -41,8 +41,16 @@
 <!-- NPM Package Section -->
 <h2>:package: My NPM Package</h2>
 <!-- TODO: Add your npm package details here -->
-<p>🚀 I've created an npm package to help developers! Check it out:</p>
-<!-- Add your npm package badge and description here -->
+## 📦 My NPM Package
+
+🚀 I’ve created an npm package to simplify MongoDB aggregation queries in a modular way — perfect for full-stack developers:
+
+**🔗 [mongo-pipeline-kit](https://www.npmjs.com/package/mongo-pipeline-kit)**
+### 🧰 Features:
+- 📌 Chainable and type-safe aggregation stage builders
+- ♻️ Reusable and maintainable pipeline components
+- 🧠 Great for clean and DRY backend logic
+- 💻 Fully TypeScript supported
 
 <!-- Language and frameworks -->
 <h2>:bulb: Languages & Frameworks</h2>
