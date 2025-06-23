@@ -123,9 +123,12 @@ Features:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-computer-geek&theme=midnight-purple&hide_border=true" />
 </details>
 
-<details>
-  <summary>Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=arjun-computer-geek&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3ACE&area_color=7E3ACE" />
+<details open>
+  <summary>Arjun's Contribution</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-computer-geek&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Ashutosh's github activity graph" />
+  </p>
 </details>
 
 <details>
